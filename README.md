@@ -4,19 +4,28 @@
 + [JMM](#jmm)
 + [JVM/bytecode](#jvm)
 + [GCs](#gcs)
++ [Dump analysis](#dump-analysis)
 
 ## Programming languages
 + [Java collections](#java-collections)
-+ [Java Concurrency](#java-concurrency)
-+ [Kotlin](#kotlin)
++ [Java concurrency](#java-concurrency)
++ [Kotlin core](#kotlin)
 + [Kotlin coroutines](#kotlin-coroutines)
 
 ## Technologies
 + [Spring](#spring)
 + [Ktor](#ktor)
++ [Kodein-DI](#kodein-di)
++ [Vert.x](#vertx)
++ [Micronaut](#micronaut)
++ [Jakarta EE](#jakarta-ee)
++ [MicroProfile](#microprofile)
++ [Kafka](#kafka)
++ [RabbitMQ](#rabbitmq)
 + [Gradle](#gradle)
 
 ## Databases
++ [General](#feneral)
 + [SQL](#sql)
 + [Hibernate](#hibernate)
 + [PostgreSQL](#postgresql)
@@ -32,10 +41,10 @@
 + [Docker](#docker)
 + [Kubernetes](#kubernetes)
 + [Ansible](#ansible)
++ [Logging](#logging)
 + [AWS](#aws)
 + [Terraform](#terraform)
 + [Grafana and Prometheus](#grafana-and-prometheus)
-+ [Logging](#logging)
 
 ## Architechture
 + [Architechture](#architechture)
